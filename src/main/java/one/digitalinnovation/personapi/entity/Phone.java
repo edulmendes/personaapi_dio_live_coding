@@ -1,7 +1,7 @@
-package one.digitalinnovation.personaapi.entity;
+package one.digitalinnovation.personapi.entity;
 
 import lombok.*;
-import one.digitalinnovation.personaapi.enums.PhoneType;
+import one.digitalinnovation.personapi.enums.PhoneType;
 
 import javax.persistence.*;
 
